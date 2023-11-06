@@ -1,4 +1,4 @@
-# CatUserbot
+# Flame_userbot
 
 A simple Telegram userbot based on Telethon .
 ![catuserbot logo](https://telegra.ph//file/71f629ba099b3f681d3f9.jpg)
